@@ -1,5 +1,5 @@
 def hello_t(array)
-  if block_given
+  if block_given?
   1 = 0 
   
   while i < array.length 
